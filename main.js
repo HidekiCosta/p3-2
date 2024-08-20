@@ -9,64 +9,64 @@ const perguntas = [
         enunciado: "Você prefere :",
         alternativas: [
             {
-                texto: "Preto",
-                afirmacao: "baah"
+                texto: "Monocromático",
+                afirmacao: "Você talvez seja daltônico"
             },
             {
-                texto: "Branco",
-                afirmacao: "Afirmação 1.2"
+                texto: "Colorido",
+                afirmacao: "Você talvez não seja daltônico"
             }
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "Você cultiva plantas ?",
         alternativas: [
             {
-                texto: "Texto 2.1",
-                afirmacao: "Afirmação 2.1"
+                texto: "Sim",
+                afirmacao: "Desocupado"
             },
             {
-                texto: "Texto 2.2",
-                afirmacao: "Afirmação 2.2"
+                texto: "Não",
+                afirmacao: "Faz bem cultivar plantas"
             }
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "Você fala :",
         alternativas: [
             {
-                texto: "Texto 3.1",
-                afirmacao: "Afirmação 3.1"
+                texto: "Biscoito",
+                afirmacao: "Dá no mesmo"
             },
             {
-                texto: "Texto 3.2",
-                afirmacao: "Afirmação 3.2"
+                texto: "Bolacha",
+                afirmacao: "Dá no mesmo"
             }
         ]
     },
     {
-        enunciado: "Pergunta 4",
+        enunciado: "Você prefere :",
         alternativas: [
             {
-                texto: "Texto 4.1",
-                afirmacao: "Afirmação 4.1"
+                texto: "Estudar",
+                afirmacao: "Vai sofrer bastante"
             },
             {
-                texto: "Texto 4.2",
-                afirmacao: "Afirmação 4.2"
+                texto: "Trabalhar",
+                afirmacao: "você é maluco"
             }
         ]
     },
     {
-        enunciado: "Pergunta 5",
+        enunciado: "Prefere :",
         alternativas: [
             {
-                texto: "Texto 5.1",
-                afirmacao: "Afirmação 5.1"
+                texto: "Gastar seu tempo dormindo",
+                afirmacao: "Preguiça"
             },
             {
-                texto: "Texto 5.2",
-                afirmacao: "Afirmação 5.2"
+                texto: "Gastar seu tempo boiando",
+                afirmacao: "Noia"
             }
         ]
     },
